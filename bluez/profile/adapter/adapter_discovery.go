@@ -2,8 +2,8 @@ package adapter
 
 import (
 	"github.com/godbus/dbus/v5"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/bluez/profile/device"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez/profile/device"
 	log "github.com/sirupsen/logrus"
 )
 

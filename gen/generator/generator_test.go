@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/muka/go-bluetooth/gen"
-	"github.com/muka/go-bluetooth/gen/filters"
-	"github.com/muka/go-bluetooth/gen/util"
+	"github.com/OrgansWithoutBodies/go-bluetooth/gen"
+	"github.com/OrgansWithoutBodies/go-bluetooth/gen/filters"
+	"github.com/OrgansWithoutBodies/go-bluetooth/gen/util"
 	"github.com/stretchr/testify/assert"
 )
 

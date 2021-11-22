@@ -3,7 +3,7 @@
 
 Go bluetooth API for Linux-based Bluez DBus interface.
 
-[![GoDoc](https://godoc.org/github.com/muka/go-bluetooth?status.svg)](https://godoc.org/github.com/muka/go-bluetooth)
+[![GoDoc](https://godoc.org/github.com/OrgansWithoutBodies/go-bluetooth?status.svg)](https://godoc.org/github.com/OrgansWithoutBodies/go-bluetooth)
 
 <img style="float:right" align="center" width="70" src="./gopher.png">
 
@@ -42,7 +42,7 @@ go run main.go discovery
 
 1. Clone the repository
 
-  `git clone https://github.com/muka/go-bluetooth.git`
+  `git clone https://github.com/OrgansWithoutBodies/go-bluetooth.git`
 
 1. Retrieve the bluetooth API and generate GO code
 

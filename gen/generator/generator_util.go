@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/muka/go-bluetooth/gen/types"
+	"github.com/OrgansWithoutBodies/go-bluetooth/gen/types"
 )
 
 var TplPath = "gen/generator/tpl/%s.go.tpl"

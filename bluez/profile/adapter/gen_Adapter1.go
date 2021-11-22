@@ -7,9 +7,9 @@ import (
 	"sync"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/muka/go-bluetooth/bluez"
-	"github.com/muka/go-bluetooth/props"
-	"github.com/muka/go-bluetooth/util"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez"
+	"github.com/OrgansWithoutBodies/go-bluetooth/props"
+	"github.com/OrgansWithoutBodies/go-bluetooth/util"
 )
 
 var Adapter1Interface = "org.bluez.Adapter1"

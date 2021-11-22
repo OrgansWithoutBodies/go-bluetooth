@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/muka/go-bluetooth/api"
-	"github.com/muka/go-bluetooth/bluez/profile/adapter"
-	"github.com/muka/go-bluetooth/bluez/profile/agent"
+	"github.com/OrgansWithoutBodies/go-bluetooth/api"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez/profile/adapter"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez/profile/agent"
 	log "github.com/sirupsen/logrus"
 )
 

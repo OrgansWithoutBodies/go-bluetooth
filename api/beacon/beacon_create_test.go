@@ -3,7 +3,7 @@ package beacon
 import (
 	"testing"
 
-	"github.com/muka/go-bluetooth/bluez/profile/device"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez/profile/device"
 	"github.com/stretchr/testify/assert"
 )
 

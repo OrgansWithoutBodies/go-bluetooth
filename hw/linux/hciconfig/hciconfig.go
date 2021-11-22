@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/muka/go-bluetooth/hw/linux/cmd"
+	"github.com/OrgansWithoutBodies/go-bluetooth/hw/linux/cmd"
 )
 
 // GetAdapters return the list of available adapters

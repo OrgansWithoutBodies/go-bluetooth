@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/muka/go-bluetooth/bluez"
+	"github.com/OrgansWithoutBodies/go-bluetooth/bluez"
 )
 
 func TestGetAdapterIDFromPath(t *testing.T) {
